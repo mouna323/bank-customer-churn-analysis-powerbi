@@ -63,7 +63,7 @@ Dashboard Preview:
 
 Project Structure:
 PowerBI-Churn-Dashboard
-	1.data set
-	2.churn_dashboard.pbix
-	3.screenshots
+	1.screenshots
+	2.data set
+	3.churn_dashboard.pbix
 	4.README.md
