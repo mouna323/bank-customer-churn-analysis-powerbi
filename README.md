@@ -1,11 +1,11 @@
 Bank Customer Churn Analysis Dashboard (Power BI)
+An interactive Power BI dashboard analyzing customer churn in the banking sector to identify key drivers and improve retention strategies.
 
 Dashboard Preview:
 
 <img width="1305" height="738" alt="01-executive-overview-dashboard" src="https://github.com/user-attachments/assets/4efea6d1-bcf1-4efc-9907-15ad798f6f19" />
 <img width="1302" height="730" alt="02-churn-analysis-dashboard" src="https://github.com/user-attachments/assets/27f256ab-d7c8-4bcd-9091-71d17c094afe" />
 <img width="1312" height="735" alt="03-customer-details-drillthrough" src="https://github.com/user-attachments/assets/c2923574-f444-470b-a66b-6228f83c1c21" />
-
 
 Project Overview:
 This project focuses on analyzing customer churn behavior in the banking sector using Power BI.
