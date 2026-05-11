@@ -63,10 +63,10 @@ Key Insights:
 4.Certain customer segments (based on geography and demographics) show higher churn trends.  
 
 Recommendations:
-Improve complaint handling processes to reduce churn risk
-Promote cross-selling strategies to increase number of products per customer
-Enhance engagement programs for inactive customers
-Focus retention strategies on high-risk segments
+1.Improve complaint handling processes to reduce churn risk.
+2.Promote cross-selling strategies to increase number of products per customer
+3.Enhance engagement programs for inactive customers
+4.Focus retention strategies on high-risk segments
 
 
 Project Structure:
