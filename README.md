@@ -57,10 +57,10 @@ Dashboard Features:
  Comparison of churn behavior across different factors
 
 Key Insights:
-Customers who submitted complaints show a significantly higher churn rate (~99%), indicating service dissatisfaction as a critical churn driver.
-Customers with fewer products are more likely to churn compared to multi-product customers.
-Inactive customers exhibit higher churn behavior, highlighting engagement as a key retention factor.
-Certain customer segments (based on geography and demographics) show higher churn trends.  
+1.Customers who submitted complaints show a significantly higher churn rate (~99%), indicating service dissatisfaction as a critical churn driver.
+2.Customers with fewer products are more likely to churn compared to multi-product customers.
+3.Inactive customers exhibit higher churn behavior, highlighting engagement as a key retention factor.
+4.Certain customer segments (based on geography and demographics) show higher churn trends.  
 
 Recommendations:
 Improve complaint handling processes to reduce churn risk
