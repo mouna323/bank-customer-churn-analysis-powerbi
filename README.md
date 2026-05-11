@@ -54,7 +54,7 @@ Dashboard Features:
  
  Drill-Through Analysis:
  Deep dive into customer segments
- Comparison of churn behavior across attributes
+ Comparison of churn behavior across different factors
 
 Key Insights:
 Customers who submitted complaints show a significantly higher churn rate (~99%), indicating service dissatisfaction as a critical churn driver.
